@@ -39,8 +39,8 @@
                             <shadedPattern>com.github.zeddicuspl.customblockdata</shadedPattern>
                         </relocation>
                         <relocation>
-                            <pattern>com.jeff_media.morepersistentdatatypes</pattern>
-                            <shadedPattern>com.github.zeddicuspl.morepersistentdatatypes</shadedPattern>
+                            <pattern>com.jeff_media.MorePersistentDataTypes</pattern>
+                            <shadedPattern>com.github.zeddicuspl.MorePersistentDataTypes</shadedPattern>
                         </relocation>
                     </relocations>
                     <artifactSet>
@@ -63,7 +63,7 @@
                             </excludes>
                         </filter>
                         <filter>
-                            <artifact>com.jeff-media:morepersistentdatatypes</artifact>
+                            <artifact>com.jeff-media:MorePersistentDataTypes</artifact>
                             <excludes>
                                 <exclude>META-INF/*.*</exclude>
                             </excludes>
