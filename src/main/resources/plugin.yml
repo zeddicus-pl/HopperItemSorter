@@ -3,5 +3,5 @@ version: '1.0'
 main: com.github.zeddicuspl.hopperItemSorter.HopperItemSorter
 api-version: '1.21'
 authors: [ Zeddicus ]
-description: Minecraft Map GUI
+description: Filter Hopper plugin
 website: https://www.github.com/zeddicus-pl
